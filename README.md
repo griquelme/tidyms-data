@@ -1,11 +1,8 @@
 TidyMS Data
 ===========
 
-This repository contains example data for the [tidyms
-package](https://github.com/griquelme/tidyms). It doesn't try to be a data
-repository, and only contains some example data sets to generate examples
-or for testing purposes.
-
+This repository contains example and test data for the [tidyms
+package](https://github.com/griquelme/tidyms). 
 
 datasets format
 ---------------
