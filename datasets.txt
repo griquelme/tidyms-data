@@ -2,3 +2,5 @@ reference-materials
 test-xcms
 test-mzmine
 test-progenesis
+test-raw-data
+test-nist-raw-data
